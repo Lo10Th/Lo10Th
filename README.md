@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-karl.png)
 
 
 <h3 align="center">14 years old kid that's on a journey to become a software developer</h3>
