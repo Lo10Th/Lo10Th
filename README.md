@@ -2,7 +2,7 @@
 
 
 <h3 align="center">14 years old kid that's on a journey to become a software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/back-end-developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lo10th&label=Profile%20views&color=0e75b6&style=flat" alt="lo10th" /> </p>
