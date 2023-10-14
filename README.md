@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Karl</h1>
+
 <h3 align="center">14 years old kid that's on a journey to become a software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
