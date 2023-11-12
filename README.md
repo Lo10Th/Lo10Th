@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bladify](https://github.com/Lo10Th/Bladify)
 
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently learning **React-Native, Django**
 
 - 👯 I’m looking to collaborate on [Bootstrap-Academy](https://github.com/Bootstrap-Academy/Bootstrap-Academy)
 
