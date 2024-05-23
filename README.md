@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lo10th&label=Profile%20views&color=0e75b6&style=flat" alt="lo10th" /> </p>
 
-- 🔭 I’m currently working on [Bladify](https://github.com/Lo10Th/Bladify)
+- 🔭 I’m currently working on [IndienMefaGame](https://github.com/Lo10Th/IndienMefaGame)
 
 - 🌱 I’m currently learning **React-Native, Django**
 
