@@ -1,7 +1,7 @@
 ![Header](./github-header-image-karl.png)
 
 
-<h3 align="center">14 year old kid that's on a journey to become a software developer</h3>
+<h3 align="center">15 year old kid that's on a journey to become a software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/back-end-developer.gif">
 
 
